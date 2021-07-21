@@ -69,7 +69,8 @@ const App = () => {
               lives, you truly are special believe me, and we are all so blessed
               to have you in our lives. Also i love your smile, yeah i know i
               find your motu tears cute too but i love your smile 10000000 times
-              more so bestie ke liye hi muskura de hehehe. Friss you. Also, try
+              more so bestie ke liye hi muskura de hehehe. Also, you are a lot
+              stronger than you give yourselves credit for. Friss you. Also, try
               checking out this playlist you lovely person.
               <br />
               <a
@@ -106,7 +107,7 @@ const App = () => {
             classes="card cardleft animate__animated animate__backInLeft"
             mood="Question hogya"
           >
-            <p>Well, congrets😂. So proud of you🙌.</p>
+            <p>Well, congrets. Moj kro😂. So proud of you🙌.</p>
           </Collapse>
         </div>
         <div className="cardconright">
@@ -137,22 +138,32 @@ const App = () => {
             </p>
           </Collapse>
         </div>
-        <div className="cardconleft">
-          <Collapse
-            classes="card cardleft animate__animated animate__backInLeft"
-            mood="Angry for no reason😂"
-          >
+        <div className="cardconright">
+          <div className="card cardright animate__animated animate__backInRight">
             <p>
-              Mujhe msg kar ke mere pe ye gussa na nikaalein jaayein aur achi si
-              neend le lein ek😂😂. Ye lo
-              <br />
-              <img
-                src="https://okpakistan.com/wp-content/uploads/2019/10/2.jpg"
-                width="250"
-                height="auto"
-              />
+              Sooooooo, thenks for existing❤. I know this is probably the lamest
+              gift you have ever recieved but seriously I couldn't think of
+              anything else. It's been 2 years and you have been nothing but a
+              blessing in my life, and I hope i have been in yours. I can't
+              imagine a world where Laiba Qureshi is not the super duper cutest
+              bestie of Amir Javed. I know we fight, A LOT. Sometimes over
+              things that don't even make sense, but every single one of those
+              fights does nothing but remind me how much of an integral part of
+              my life you are. May Allah always keep you happy and healthy and
+              gets rid of all the problems you face. May he always keep you
+              motivated towards your goal, may you become the best coder in
+              Jamia in the next year hehe. And no, I am not saying all this
+              because you are my best friend. I am saying all this because you
+              deserve all of it because you are one of the best people I have
+              ever met. So once again, thenks for existing you cute, beautiful,
+              gorgeous, smart, innocent, caring, loving baawli ladki. I can't
+              explain in words how much you mean to me and how much your
+              friendship has helped me grow in the last two years. I hope it
+              remains the same, for the rest of our lives. I friss you I miss
+              you A LOT❤.
+              <br /> HAPPY BIRTHDAY KHARGOSH
             </p>
-          </Collapse>
+          </div>
         </div>
       </div>
     </>
